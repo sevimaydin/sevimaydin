@@ -4,7 +4,7 @@
 <h3 align="center">I am currently a curious frontend developer candidate. I am currently learning react 
 front-end development languages.</h3>
 
-<h3 align="left">Connect with me:sevim0929@gmail.com</h3>
+
 <p align="left">
 </p>
 
