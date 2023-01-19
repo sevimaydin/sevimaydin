@@ -1,8 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Sevim</h1>
-<h3 align="center">I am currently a curious frontend developer candidate. <b>
-I am currently learning react 
+
+<h3 align="center"> 🔭 I am a mathematics teacher. I decided to be a front-end developer 
+because of my interest in the ever-renewing structure
+of the IT world and my interest in design issues.
+-🌱 I am currently learning react 
 front-end development languages.</h3>
 
 
