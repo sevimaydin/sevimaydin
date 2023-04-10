@@ -16,6 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sevimaydin&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ##### ✍️ 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](Winners never quit. Quitters never win.)
 
 
